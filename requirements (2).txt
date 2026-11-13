@@ -1,0 +1,12 @@
+python-telegram-bot==21.6
+groq
+cairosvg
+imageio
+imageio-ffmpeg
+pillow
+numpy
+aiohttp
+httpx
+edge-tts
+gTTS
+qrcode[pil]
